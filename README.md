@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-fontisto/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-fontisto" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-fontisto">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-fontisto" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-fontisto">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-fontisto" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-fontisto">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-fontisto" alt="License" />
-    </a>
-</p>
 
 ## About Fontisto
 
